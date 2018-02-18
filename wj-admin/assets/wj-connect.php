@@ -1,6 +1,6 @@
 <?php
-	$wj_servername = 'localhost';
-	$wj_username = 'wonderadmin';
-	$wj_password = 'iS989vsjej3VVs';
-	$wj_dbname = 'wj_wonderjar';
+	$wj_servername = '';
+	$wj_username = '';
+	$wj_password = '';
+	$wj_dbname = '';
 ?>
