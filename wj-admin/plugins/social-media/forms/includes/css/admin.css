@@ -1,0 +1,88 @@
+/**
+ * Forms Admin CSS
+ * @author Matt
+ * @version 0.1
+ * @since 2017-07-18
+ *
+ */
+
+
+/* forms sidebar */
+
+.sidebar .radio-group {
+	display: inline-block;
+	padding-right: 1em;
+}
+
+	.sidebar .radio-group:last-child {
+		padding-right: 0;
+	}
+
+.sidebar .radio-group label {
+	margin-bottom: 0;
+	padding-right: .2em;
+	display: inline-block;
+}
+
+.forms .sidebar input[type="text"],
+.forms .sidebar input[type="email"] {
+	max-width: 160px;
+}
+
+
+/* forms list */
+
+.forms-container .forms-nav {
+	float: right;
+	font-size: .9rem;
+}
+
+.forms-nav p {
+	margin: 0;
+}
+
+.forms-nav a {
+	color: #888;
+}
+
+
+/* submissions */
+
+.submission .sub-content {
+	padding: .5em;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-size: .95em;
+}
+
+.submission .sub-content:nth-child(even) {
+	background: #f1f1f1;
+}
+
+.submission .sub-content:nth-child(odd) {
+	background: #f9f9f9;
+}
+
+.submission h4 {
+	margin: 0 0 .4em;
+	font-size: .95em;
+	letter-spacing: 0;
+	color: #585858;
+}
+
+.submission h5 {
+	margin-bottom: .2em;
+	font-weight: unset;
+	font-size: .9em;
+	color: #585858;
+}
+
+.submission p {
+	margin-bottom: 0;
+}
+
+.submission span {
+	color: #959595;
+}
+
+

@@ -1,0 +1,177 @@
+/**
+ * Features plugin stylesheet
+ *
+ * @author Matt
+ * @version 1.0
+ * @since 2017-06-24
+ *
+ * Notes: Stylesheet for displaying
+ * 		  returned shortcode function @function features_call()
+ */
+
+
+/* Globals
+ ----------------------------------------------- */
+
+.features-container ul:after,
+.features-list .feature-item-title:after {
+	content: '';
+	display: table;
+	clear: both;
+}
+
+/* Feature Blurbs
+ ----------------------------------------------- */
+
+.features-container {
+	text-align: center;
+	color: #646464;
+}
+
+.features-container ul {
+	margin: 0 -1em -3em;
+ 	padding: 0;
+ 	list-style: none;
+
+ 	display: -webkit-box;
+ 	display: -ms-flexbox;
+ 	display: flex;
+ 	-ms-flex-wrap: wrap;
+ 	    flex-wrap: wrap;
+ 	-ms-flex-item-align: start;
+ 	    align-self: flex-start;
+}
+
+.features-list li {
+ 	margin: 0 1em 3em;
+ 	float: left;
+ 	width: calc(50% - 2em);
+}
+
+	.features-list li:nth-child(2n + 1) {
+		clear: left;
+	} 
+
+.feature-item-title {
+	margin-bottom: 1em;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.feature-item-title .feature-item-image-link {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 1em;
+}
+
+.feature-item-title a {
+	box-shadow: none;
+}
+
+.feature-item-title img {
+	display: block;
+	max-width: 50px;
+}
+
+.feature-item-title h3 {
+	display: inline-block;
+	vertical-align: middle;
+	margin-bottom: 0;
+	font-size: 1.5em;
+	line-height: 1.3;
+}
+
+.features-list p {
+	margin-bottom: 0;
+}
+
+
+@media screen and (max-width: 768px) {
+	.features-list li {
+		margin: 0 auto 3em;
+	 	float: none;
+	 	width: auto;
+	 	max-width: 80%;
+	}
+
+		.features-list li:last-child {
+		 	margin-bottom: 0;
+		}
+
+	.features-list li .item-blurb {
+		padding: 4em;
+	}
+
+}
+
+
+/* Feature Page
+ ----------------------------------------------- */
+
+ .feature-section:after {
+ 	content: '';
+ 	display: table;
+ 	clear: both;
+ }
+
+.features-page .feature-section {
+	padding-top: 4em;
+	padding-bottom: 4em;
+}
+
+	.feature-section:nth-child(even) {
+		background: #f1f1f1;
+	}
+
+.feature-section-header {
+	margin-bottom: 2em;
+}
+
+.feature-section-header h3 {
+	display: inline-block;
+	vertical-align: middle;
+	margin-bottom: 0;
+	font-size: 1.6em;
+	line-height: 1.3;
+}
+
+.feature-section-image {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 1em;
+}
+
+.feature-section-image img {
+	display: block;
+	max-width: 80px;
+}
+
+/* rtl *
+
+.feature-section.rtl {
+	text-align:  right;
+}
+
+.feature-section.rtl .feature-section-header {
+	text-align: right;
+}
+
+.feature-section.rtl .feature-section-inner {
+	flex-direction: row-reverse;
+}
+
+.feature-section.rtl .fa-ul {
+	margin-left: 0;
+	margin-right: 2.14285714em;
+	text-align: right;
+}
+
+.feature-section.rtl .fa-li {
+	left: auto;
+	right: -2.14285714em;
+}
+
+*/
+
+

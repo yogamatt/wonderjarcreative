@@ -1,0 +1,24 @@
+[11-Jun-2017 05:54:11 UTC] PHP Notice:  Undefined variable: bodyclass in /home/wonderadmin/public_html/wj-admin/header.php on line 32
+[11-Jun-2017 05:54:11 UTC] PHP Warning:  include(/home/wonderadmin/public_html/wj-admin/footer.php): failed to open stream: No such file or directory in /home/wonderadmin/public_html/wj-admin/plugins/test/test-admin.php on line 18
+[11-Jun-2017 05:54:11 UTC] PHP Warning:  include(): Failed opening '/home/wonderadmin/public_html/wj-admin/footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/wonderadmin/public_html/wj-admin/plugins/test/test-admin.php on line 18
+[11-Jun-2017 05:54:47 UTC] PHP Notice:  Undefined variable: bodyclass in /home/wonderadmin/public_html/wj-admin/header.php on line 32
+[11-Jun-2017 05:54:47 UTC] PHP Warning:  include(/home/wonderadmin/public_html/wj-admin/footer.php): failed to open stream: No such file or directory in /home/wonderadmin/public_html/wj-admin/plugins/test/test-admin.php on line 18
+[11-Jun-2017 05:54:47 UTC] PHP Warning:  include(): Failed opening '/home/wonderadmin/public_html/wj-admin/footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/wonderadmin/public_html/wj-admin/plugins/test/test-admin.php on line 18
+[11-Jun-2017 06:08:30 UTC] PHP Notice:  Undefined variable: bodyclass in /home/wonderadmin/public_html/wj-admin/header.php on line 32
+[11-Jun-2017 06:08:30 UTC] PHP Warning:  include(/home/wonderadmin/public_html/wj-admin/footer.php): failed to open stream: No such file or directory in /home/wonderadmin/public_html/wj-admin/plugins/test/test-admin.php on line 18
+[11-Jun-2017 06:08:30 UTC] PHP Warning:  include(): Failed opening '/home/wonderadmin/public_html/wj-admin/footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/wonderadmin/public_html/wj-admin/plugins/test/test-admin.php on line 18
+[11-Jun-2017 06:09:24 UTC] PHP Notice:  Undefined variable: bodyclass in /home/wonderadmin/public_html/wj-admin/header.php on line 32
+[11-Jun-2017 06:09:29 UTC] PHP Notice:  Undefined variable: bodyclass in /home/wonderadmin/public_html/wj-admin/header.php on line 32
+[11-Jun-2017 06:09:35 UTC] PHP Notice:  Undefined variable: bodyclass in /home/wonderadmin/public_html/wj-admin/header.php on line 32
+[11-Jun-2017 07:12:19 UTC] PHP Notice:  Undefined variable: bodyclass in /home/wonderadmin/public_html/wj-admin/header.php on line 32
+[11-Jun-2017 21:55:48 UTC] PHP Notice:  Undefined variable: bodyclass in /home/wonderadmin/public_html/wj-admin/header.php on line 32
+[11-Jun-2017 22:04:46 UTC] PHP Notice:  Undefined variable: bodyclass in /home/wonderadmin/public_html/wj-admin/header.php on line 32
+[11-Jun-2017 22:05:58 UTC] PHP Notice:  Undefined variable: bodyclass in /home/wonderadmin/public_html/wj-admin/header.php on line 32
+[12-Jun-2017 02:21:46 UTC] PHP Notice:  Undefined variable: bodyclass in /home/wonderadmin/public_html/wj-admin/header.php on line 32
+[13-Jun-2017 06:09:25 UTC] PHP Notice:  Undefined variable: bodyclass in /home/wonderadmin/public_html/wj-admin/header.php on line 33
+[13-Jun-2017 06:18:45 UTC] PHP Notice:  Undefined variable: bodyclass in /home/wonderadmin/public_html/wj-admin/header.php on line 33
+[13-Jun-2017 06:34:54 UTC] PHP Notice:  Undefined variable: bodyclass in /home/wonderadmin/public_html/wj-admin/header.php on line 33
+[21-Jun-2017 05:17:09 UTC] PHP Notice:  Undefined variable: bodyclass in /home/wonderadmin/public_html/wj-admin/header.php on line 33
+[21-Jun-2017 06:33:33 UTC] PHP Notice:  Undefined variable: bodyclass in /home/wonderadmin/public_html/wj-admin/header.php on line 33
+[19-Jul-2017 05:56:45 UTC] PHP Notice:  Undefined variable: bodyclass in /home/wonderadmin/public_html/wj-admin/header.php on line 33
+[28-Jul-2017 07:20:48 UTC] PHP Notice:  Undefined variable: bodyclass in /home/wonderadmin/public_html/wj-admin/header.php on line 33
